@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, my name is Hoàng Hải Long. I'm from Vietnam.
+
+I'm a security research at [@qriousec](https://x.com/qriousec). Focusing on Linux kernel.
